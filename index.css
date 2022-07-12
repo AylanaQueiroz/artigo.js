@@ -9,7 +9,6 @@ body {
     display: flex;
     margin: auto;
     margin-top: 15%;
-    border: 1px solid black;
     border-radius: 10px;
 }
 
@@ -23,7 +22,8 @@ body {
 .drawer-pic {
     position:relative;
     width: 250px;
-    height: 180px
+    height: 180px;
+    border-radius: 10px 0 0 10px;
     
 }
 
@@ -62,4 +62,16 @@ body {
     margin-top: 2%;
     margin-left: 20%;
     color: #c1c6cc;
+}
+
+button {
+    width: 15%;
+    height: 19%;
+    margin-left: 90%;
+    position: relative;
+    bottom:15%;   
+}
+.arrow {
+  width: 30px;
+  margin-left: -13%;
 }
