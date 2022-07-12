@@ -1,0 +1,65 @@
+body {
+    background-color:#edf2f8;
+}
+
+.card {
+    height: 180px;
+    width:550px;
+    background-color: white;
+    display: flex;
+    margin: auto;
+    margin-top: 15%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.photo-side {
+    height: 180px;
+    width: 250px;
+    display: inline-block;
+    
+}
+
+.drawer-pic {
+    position:relative;
+    width: 250px;
+    height: 180px
+    
+}
+
+.info-side {
+    height: 180px;
+    width: 250px; 
+    display: inline-block;
+    padding: 20px;
+    font-family: 'Manrope', sans-serif;
+    font-size: 12px;
+}
+
+.text-bold {
+    font-weight: bold;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+
+.text-gray {
+    color: #989ea7;
+}
+
+.avatar {
+    border-radius: 80px;
+    width: 40px;
+    padding-top: 10px;
+}
+
+.name-avatar {
+    margin-top: -14%;
+    margin-left: 20%;
+    font-weight: bold;
+}
+
+.date-avatar {
+    margin-top: 2%;
+    margin-left: 20%;
+    color: #c1c6cc;
+}
