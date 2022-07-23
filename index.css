@@ -96,29 +96,32 @@ display: inline;
 .share {
     margin-left: 10%;
     position: absolute;
-    top:30%
+    top:30%;
+    color:#c1c6cc;
+    font-weight: bold;
     
 }
 
 .fb {
     width: 8%;
-    top:30%;
+    top:35%;
     position: absolute;
-    left:45%;
+    left:50%;
+    
     
 }
 
 .tt {
     width:8%;
     position: absolute;
-    top:30%;
-    margin-left: 60%;
+    top:35%;
+    margin-left: 65%;
 }
 
 .pinterest {
     width:8%;
     position: absolute;
-    top:30%;
+    top:35%;
     margin-left: 80%;
 }
 
