@@ -75,3 +75,50 @@ button {
   width: 30px;
   margin-left: -13%;
 }
+
+ul {
+background-color: #4a546b;
+border-radius: 15px;
+display: none;
+bottom: 55%;
+left: 70%;
+position: relative;
+width: 50%;
+height: 20%;
+}
+
+li {
+background-color: #4a546b;
+border-radius: 15px;
+display: inline;
+}
+
+.share {
+    margin-left: 10%;
+    position: absolute;
+    top:30%
+    
+}
+
+.fb {
+    width: 8%;
+    top:30%;
+    position: absolute;
+    left:45%;
+    
+}
+
+.tt {
+    width:8%;
+    position: absolute;
+    top:30%;
+    margin-left: 60%;
+}
+
+.pinterest {
+    width:8%;
+    position: absolute;
+    top:30%;
+    margin-left: 80%;
+}
+
